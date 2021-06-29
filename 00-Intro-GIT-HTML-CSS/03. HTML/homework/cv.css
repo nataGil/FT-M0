@@ -1,0 +1,17 @@
+#general {
+    padding: 50px;
+    border: 80px solid purple;
+    margin: 10px;
+    font-style: italic;
+}
+
+#laboral {
+    padding-left: 10px;
+    margin: 30px;
+    font-style: italic;
+}
+
+#hobbies {
+    font-style: italic;
+    padding: 20px;
+}
